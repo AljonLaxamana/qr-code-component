@@ -37,6 +37,7 @@ main {
 
 .content-container {
   margin-top: 24px;
+  padding-inline: 16px;
 }
 
 .content-container-title {
